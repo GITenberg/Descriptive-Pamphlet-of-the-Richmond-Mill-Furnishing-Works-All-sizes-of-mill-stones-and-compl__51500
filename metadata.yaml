@@ -1,11 +1,16 @@
 _repo: Descriptive-Pamphlet-of-the-Richmond-Mill-Furnishing-Works-All-sizes-of-mill-stones-and-compl__51500
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 51500-h/images/cover.jpg
 creator:
   author:
     agent_name: Richmond Mill Furnishing Works
     gutenberg_agent_id: '46436'
     url: http://www.gutenberg.org/2009/agents/46436
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/51500#Descriptive-Pamphlet-of-the-Richmond-Mill-Furnishing-Works-All-sizes-of-mill-stones-and-compl_
 gutenberg_issued: '2016-03-19'
 gutenberg_type: Text
 identifiers:
