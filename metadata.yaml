@@ -1,0 +1,29 @@
+_repo: Descriptive-Pamphlet-of-the-Richmond-Mill-Furnishing-Works-All-sizes-of-mill-stones-and-compl__51500
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Richmond Mill Furnishing Works
+    gutenberg_agent_id: '46436'
+    url: http://www.gutenberg.org/2009/agents/46436
+description: ''
+gutenberg_issued: '2016-03-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '51500'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Milling machinery -- Catalogs'
+- !lcc 'TS'
+- !lcsh 'Flour industry -- Equipment and supplies -- Catalogs'
+- !lcsh 'Nordyke, Marmon & Company -- Catalogs'
+- !lcsh 'Mills and mill-work -- Equipment and supplies -- Catalogs'
+- GITenberg
+title: "Descriptive Pamphlet of the Richmond Mill Furnishing Works\r\nAll sizes of\
+  \ mill stones and complete grinding and bolting combined husk or portable flouring\
+  \ mills, portable corn and feed mills; smut and separating machines; zigzag and\
+  \ oat separators, dustless separators, warehouse separators, water wheels; mill\
+  \ shafting; pulleys; spur and bevel, iron and core, gearing...."
+url: http://www.gutenberg.org/ebooks/51500
